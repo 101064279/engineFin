@@ -1,0 +1,78 @@
+﻿  Audio.cpp
+  Bullet.cpp
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\Bullet.h(9,26): warning C4584: 'Bullet': base-class 'sf::Transformable' is already a base-class of 'GameObject'
+c:\engineGit-master\engineGit-master\pleasework\SFML-2.5.1\include\SFML\Graphics\Transformable.hpp(41): message : see declaration of 'sf::Transformable'
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\GameObject.h(8): message : see declaration of 'GameObject'
+  Collider.cpp
+  Component.cpp
+  GameObject.cpp
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\GameObject.cpp(43,126): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\GameObject.cpp(43,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  GraphicsSystem.cpp
+  Initialise.cpp
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\Initialise.cpp(126,25): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+  Input.cpp
+  Main.cpp
+  pch.cpp
+  PhysicsComponent.cpp
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\PhysicsComponent.h(31,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\PhysicsComponent.h(35,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\PhysicsComponent.cpp(20,5): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\PhysicsComponent.cpp(22,5): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\PhysicsComponent.cpp(57,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  TransformComponent.cpp
+  Update.cpp
+  windows.cpp
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\PhysicsComponent.h(31,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\PhysicsComponent.h(35,45): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\Bullet.h(9,26): warning C4584: 'Bullet': base-class 'sf::Transformable' is already a base-class of 'GameObject'
+c:\engineGit-master\engineGit-master\pleasework\SFML-2.5.1\include\SFML\Graphics\Transformable.hpp(41): message : see declaration of 'sf::Transformable'
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\GameObject.h(8): message : see declaration of 'GameObject'
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\windows.cpp(25,48): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\windows.cpp(26,48): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\windows.cpp(54,54): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\windows.cpp(54,40): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\windows.cpp(137,54): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Project1\windows.cpp(137,40): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Project1.vcxproj -> C:\Users\Anna Trieu\Documents\GitHub\engineGit-master\engineGit-master\pleasework\Project1\Debug\Project1.exe
